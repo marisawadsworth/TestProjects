@@ -1,0 +1,124 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/marisawadsworth/Desktop/COURSE 2019/6215/TestProjects/BaseTest/BaseTest.csproj": {}
+  },
+  "projects": {
+    "/Users/marisawadsworth/Desktop/COURSE 2019/6215/TestProjects/BaseProject/BaseProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/marisawadsworth/Desktop/COURSE 2019/6215/TestProjects/BaseProject/BaseProject.csproj",
+        "projectName": "BaseProject",
+        "projectPath": "/Users/marisawadsworth/Desktop/COURSE 2019/6215/TestProjects/BaseProject/BaseProject.csproj",
+        "packagesPath": "/Users/marisawadsworth/.nuget/packages/",
+        "outputPath": "/Users/marisawadsworth/Desktop/COURSE 2019/6215/TestProjects/BaseProject/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/marisawadsworth/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/Users/marisawadsworth/Desktop/COURSE 2019/6215/TestProjects/BaseTest/BaseTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/marisawadsworth/Desktop/COURSE 2019/6215/TestProjects/BaseTest/BaseTest.csproj",
+        "projectName": "BaseTest",
+        "projectPath": "/Users/marisawadsworth/Desktop/COURSE 2019/6215/TestProjects/BaseTest/BaseTest.csproj",
+        "packagesPath": "/Users/marisawadsworth/.nuget/packages/",
+        "outputPath": "/Users/marisawadsworth/Desktop/COURSE 2019/6215/TestProjects/BaseTest/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/marisawadsworth/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "/Users/marisawadsworth/Desktop/COURSE 2019/6215/TestProjects/BaseProject/BaseProject.csproj": {
+                "projectPath": "/Users/marisawadsworth/Desktop/COURSE 2019/6215/TestProjects/BaseProject/BaseProject.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.0.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

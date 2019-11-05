@@ -1,0 +1,11 @@
+/Users/marisawadsworth/Desktop/COURSE 2019/6215/TestProjects/BaseProject/bin/Debug/netcoreapp2.2/BaseProject.deps.json
+/Users/marisawadsworth/Desktop/COURSE 2019/6215/TestProjects/BaseProject/bin/Debug/netcoreapp2.2/BaseProject.runtimeconfig.json
+/Users/marisawadsworth/Desktop/COURSE 2019/6215/TestProjects/BaseProject/bin/Debug/netcoreapp2.2/BaseProject.runtimeconfig.dev.json
+/Users/marisawadsworth/Desktop/COURSE 2019/6215/TestProjects/BaseProject/bin/Debug/netcoreapp2.2/BaseProject.dll
+/Users/marisawadsworth/Desktop/COURSE 2019/6215/TestProjects/BaseProject/bin/Debug/netcoreapp2.2/BaseProject.pdb
+/Users/marisawadsworth/Desktop/COURSE 2019/6215/TestProjects/BaseProject/obj/Debug/netcoreapp2.2/BaseProject.csprojAssemblyReference.cache
+/Users/marisawadsworth/Desktop/COURSE 2019/6215/TestProjects/BaseProject/obj/Debug/netcoreapp2.2/BaseProject.csproj.CoreCompileInputs.cache
+/Users/marisawadsworth/Desktop/COURSE 2019/6215/TestProjects/BaseProject/obj/Debug/netcoreapp2.2/BaseProject.AssemblyInfoInputs.cache
+/Users/marisawadsworth/Desktop/COURSE 2019/6215/TestProjects/BaseProject/obj/Debug/netcoreapp2.2/BaseProject.AssemblyInfo.cs
+/Users/marisawadsworth/Desktop/COURSE 2019/6215/TestProjects/BaseProject/obj/Debug/netcoreapp2.2/BaseProject.dll
+/Users/marisawadsworth/Desktop/COURSE 2019/6215/TestProjects/BaseProject/obj/Debug/netcoreapp2.2/BaseProject.pdb

@@ -1,0 +1,17 @@
+/Users/marisawadsworth/Desktop/COURSE 2019/6215/TestProjects/BaseTest/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/marisawadsworth/Desktop/COURSE 2019/6215/TestProjects/BaseTest/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/marisawadsworth/Desktop/COURSE 2019/6215/TestProjects/BaseTest/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/marisawadsworth/Desktop/COURSE 2019/6215/TestProjects/BaseTest/bin/Debug/netcoreapp2.2/BaseTest.deps.json
+/Users/marisawadsworth/Desktop/COURSE 2019/6215/TestProjects/BaseTest/bin/Debug/netcoreapp2.2/BaseTest.runtimeconfig.json
+/Users/marisawadsworth/Desktop/COURSE 2019/6215/TestProjects/BaseTest/bin/Debug/netcoreapp2.2/BaseTest.runtimeconfig.dev.json
+/Users/marisawadsworth/Desktop/COURSE 2019/6215/TestProjects/BaseTest/bin/Debug/netcoreapp2.2/BaseTest.dll
+/Users/marisawadsworth/Desktop/COURSE 2019/6215/TestProjects/BaseTest/bin/Debug/netcoreapp2.2/BaseTest.pdb
+/Users/marisawadsworth/Desktop/COURSE 2019/6215/TestProjects/BaseTest/bin/Debug/netcoreapp2.2/BaseProject.dll
+/Users/marisawadsworth/Desktop/COURSE 2019/6215/TestProjects/BaseTest/bin/Debug/netcoreapp2.2/BaseProject.pdb
+/Users/marisawadsworth/Desktop/COURSE 2019/6215/TestProjects/BaseTest/obj/Debug/netcoreapp2.2/BaseTest.csprojAssemblyReference.cache
+/Users/marisawadsworth/Desktop/COURSE 2019/6215/TestProjects/BaseTest/obj/Debug/netcoreapp2.2/BaseTest.csproj.CoreCompileInputs.cache
+/Users/marisawadsworth/Desktop/COURSE 2019/6215/TestProjects/BaseTest/obj/Debug/netcoreapp2.2/BaseTest.AssemblyInfoInputs.cache
+/Users/marisawadsworth/Desktop/COURSE 2019/6215/TestProjects/BaseTest/obj/Debug/netcoreapp2.2/BaseTest.AssemblyInfo.cs
+/Users/marisawadsworth/Desktop/COURSE 2019/6215/TestProjects/BaseTest/obj/Debug/netcoreapp2.2/BaseTest.csproj.CopyComplete
+/Users/marisawadsworth/Desktop/COURSE 2019/6215/TestProjects/BaseTest/obj/Debug/netcoreapp2.2/BaseTest.dll
+/Users/marisawadsworth/Desktop/COURSE 2019/6215/TestProjects/BaseTest/obj/Debug/netcoreapp2.2/BaseTest.pdb
